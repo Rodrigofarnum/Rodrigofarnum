@@ -1,3 +1,4 @@
+
 <h2 align="left">👋 Hi there, welcome to my Github profile</h2>
 
 ###
@@ -6,7 +7,7 @@
 
 ###
 
-<h2 align="left">Language and tools</h2>
+<h2 align="left">🛠️ Language and tools</h2>
 
 ###
 
@@ -26,12 +27,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" height="40" alt="cypress logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
+  
+
+    
+          
 </div>
 
 ###
 
-<h2 align="left">Contatos</h2>
-
+<h2 align="left">🪪 Contatos</h2>
 
 
 ###
