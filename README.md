@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">• My name is Rodrigo Farnum and i'm Quality Assurance, from RJ, Brazil<br><br>- 🔭 I'm working as web automation test with Robot Framework <br><br>- 📚 I'm currently learning back-end test with TestComplete<br><br>- ⚡ In my future I want to be a Quality Engineer</p>
+<p align="left">• My name is Rodrigo Farnum and i'm Quality Assurance Analyst, from RJ, Brazil<br><br>- 🔭 I'm working as web automation test with Robot Framework <br><br>- 📚 I'm currently learning back-end test with TestComplete<br><br>- ⚡ In my future I want to be a Quality Engineer</p>
 
 ###
 
@@ -22,16 +22,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" height="40" alt="cypress logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" height="40" alt="cypress logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
-  
-
-    
+      
           
 </div>
 
@@ -39,13 +40,13 @@
 
 <h2 align="left">🪪 Contatos</h2>
 
-
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rodrigofarnum/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
   <a href="https://www.instagram.com/rodrigofarnum/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
