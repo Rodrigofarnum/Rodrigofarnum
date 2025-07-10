@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">• My name is Rodrigo Farnum and i'm Quality Assurance Analyst, from RJ, Brazil<br><br>- 🔭 I'm working as web automation test with Cypress <br><br>- 📚 I'm currently learning back-end test with TestComplete<br><br>- ⚡ In my future I want to be a Quality Engineer</p>
+<p align="left">• My name is Rodrigo Farnum and i'm Quality Assurance Analyst, from RJ, Brazil<br><br>- 🔭 I'm working as web automation test with Cypress <br><br>- 📚 I'm currently learning back-end test with TestComplete and Postman<br><br>- ⚡ In my future I want to be a Quality Engineer</p>
 
 ###
 
